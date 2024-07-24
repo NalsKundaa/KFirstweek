@@ -1,0 +1,29 @@
+section{
+    display: flex;
+    text-align: Left;
+    align-items: Left;
+    justify-content: space-around;
+    border-style: solid;
+    background-color:rgba(39, 245, 211, 0.765);
+}
+body{
+    text-align: Left;
+    background-color: dodgerblue;
+}
+ul{
+    display: inline;
+    text-align: Left;
+    align-items: Left;
+    margin-right: 20px;
+}
+.facts{
+    display: flex;
+    margin-bottom: 10px;
+}
+img{
+    max-height: 200px;
+    margin-top: 10px;
+}
+
+
+
